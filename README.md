@@ -1,2 +1,2 @@
-# data_scrapper
+# data_scraper
 data_scrapper
